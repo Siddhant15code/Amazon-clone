@@ -1,2 +1,0 @@
-(this.webpackJsonpday1=this.webpackJsonpday1||[]).push([[0],[,,,function(e,n,t){e.exports=t(4)},function(e,n,t){"use strict";t.r(n);var r=t(0),a=t.n(r),l=t(2),o=t.n(l),c=document.getElementById("root");o.a.render(a.a.createElement("h1",null," Hello lets learn react clever programmer"),c);var d=document.createElement("h1");d.innerHTML="Then we will build a airbnb clone",document.getElementById("root").appendChild(d)}],[[3,1,2]]]);
-//# sourceMappingURL=main.8d330dcc.chunk.js.map

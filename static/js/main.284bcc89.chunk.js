@@ -1,0 +1,2 @@
+(this.webpackJsonpday1=this.webpackJsonpday1||[]).push([[0],[,,function(e,t,n){e.exports=n(3)},function(e,t,n){var r=n(0),o=n(5),a=document.getElementById("root");o.render(r.createElement("h1",null," Hello lets learn react clever programmer"),a)}],[[2,1,2]]]);
+//# sourceMappingURL=main.284bcc89.chunk.js.map

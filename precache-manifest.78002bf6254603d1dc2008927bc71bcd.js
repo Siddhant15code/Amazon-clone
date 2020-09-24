@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "505e458ff36c4b2618fccef9a3d8cdca",
+    "revision": "071700f34395b6aacd20c8a45d2445c1",
     "url": "/Amazon-clone/index.html"
   },
   {
